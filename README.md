@@ -18,7 +18,7 @@ This Flask-based web application predicts the likelihood of diabetes using a Ran
 ## Usage
 1. Start the Flask application:
  ```shellscript
- python app.pypython app.py
+ python app.py
  ```
 
 2. Open your web browser and navigate to `http://localhost:5000`
